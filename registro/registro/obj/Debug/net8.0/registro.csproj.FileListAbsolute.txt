@@ -1,0 +1,14 @@
+C:\Users\frivero\source\repos\registro\registro\bin\Debug\net8.0\registro.exe
+C:\Users\frivero\source\repos\registro\registro\bin\Debug\net8.0\registro.deps.json
+C:\Users\frivero\source\repos\registro\registro\bin\Debug\net8.0\registro.runtimeconfig.json
+C:\Users\frivero\source\repos\registro\registro\bin\Debug\net8.0\registro.dll
+C:\Users\frivero\source\repos\registro\registro\bin\Debug\net8.0\registro.pdb
+C:\Users\frivero\source\repos\registro\registro\obj\Debug\net8.0\registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frivero\source\repos\registro\registro\obj\Debug\net8.0\registro.AssemblyInfoInputs.cache
+C:\Users\frivero\source\repos\registro\registro\obj\Debug\net8.0\registro.AssemblyInfo.cs
+C:\Users\frivero\source\repos\registro\registro\obj\Debug\net8.0\registro.csproj.CoreCompileInputs.cache
+C:\Users\frivero\source\repos\registro\registro\obj\Debug\net8.0\registro.dll
+C:\Users\frivero\source\repos\registro\registro\obj\Debug\net8.0\refint\registro.dll
+C:\Users\frivero\source\repos\registro\registro\obj\Debug\net8.0\registro.pdb
+C:\Users\frivero\source\repos\registro\registro\obj\Debug\net8.0\registro.genruntimeconfig.cache
+C:\Users\frivero\source\repos\registro\registro\obj\Debug\net8.0\ref\registro.dll
